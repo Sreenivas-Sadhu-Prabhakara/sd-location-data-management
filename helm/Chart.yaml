@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-location-data-management
+description: "BIAN Service Domain: Location Data Management (Maintain pattern, Reference Data)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - maintain
+annotations:
+  bian/business-area: "Reference Data"
+  bian/business-domain: "Reference Data"
+  bian/asset-type: "Location Reference Data"
+  bian/control-record: "Location Reference Data Maintenance Agreement"
